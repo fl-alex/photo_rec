@@ -4,7 +4,7 @@ include_once 'menu.php';
 include_once 'functions.php';
 $myip = getIp();
 echo($myip);
-$root_path="../leiko/photo";
+$root_path="../photo";
 if (isset($_REQUEST['dir'])){    
         $path = $root_path."/".$subfolder."/".$_REQUEST['dir'];        
         $message="| ".getIp()." | getFoto | ".$path." |";        
