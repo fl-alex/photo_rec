@@ -261,7 +261,7 @@ margin-bottom: 2px;
         <a href="spr.php" id="spr">Довідка</a>
         <a href="index.php" id="if_foto">Фотограф</a>
         <a href="view_search_platform.php" id="if_mgr">Менеджер</a>  
-        <a href="view_all_photos.php" id="all_photo">Всі фото</a>  
+        
         
     </div>
     
