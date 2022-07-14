@@ -1,2 +1,2 @@
 # photo_rec
-Simple web-system for potofixation
+Simple web-system for photofixation
